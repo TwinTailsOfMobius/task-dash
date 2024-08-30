@@ -1,8 +1,4 @@
-Here's a comprehensive `README.md` file for your Task Tracker project:
-
----
-
-# Task Tracker
+# Dash-Task
 
 ## Overview
 
